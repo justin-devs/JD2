@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="745c9b64-d5af-4f49-9265-1be3ea2106b2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/Show-Box-Free-Movies-App.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/download.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/livenettv.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/livenettvthumb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/showbox-300x300.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/terrarium-tv-apk-latest-version-download.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/thumbnails/terrarium-tv-download.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/bar_black.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/bar_green.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/blog1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/blog_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/cont1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/cont_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/dom_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/elec_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/footer.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/ga.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/gen_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/home1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/ind_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/inddom_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/line.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/logo_small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/logo_top.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/mailer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/online_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/righttab.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/serv_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/spec_head.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/ts.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/v1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/v2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/v3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/clients/voltman/welcome_head.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,21 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-325">
-              <caret line="145" column="26" lean-forward="false" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
+            <state relative-caret-position="176">
+              <caret line="236" column="64" lean-forward="false" selection-start-line="236" selection-start-column="64" selection-end-line="236" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="-1290">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="freelancer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/freelancer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,6 +53,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/js/contact_me.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -125,7 +101,7 @@
             <path>
               <item name="well-known" type="b2602c69:ProjectViewProjectNode" />
               <item name="well-known" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mail" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -163,34 +139,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522225709984</updated>
-      <workItem from="1522225711395" duration="586000" />
+      <workItem from="1522225711395" duration="906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586000" />
+    <option name="totallyTimeSpent" value="906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -214,18 +190,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
-          <caret line="145" column="26" lean-forward="false" selection-start-line="145" selection-start-column="26" selection-end-line="145" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1290">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/freelancer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="236" column="64" lean-forward="false" selection-start-line="236" selection-start-column="64" selection-end-line="236" selection-end-column="64" />
           <folding />
         </state>
       </provider>
