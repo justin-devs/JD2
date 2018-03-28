@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Sites/netlify/.idea/test nelify login.iml" filepath="$USER_HOME$/Sites/netlify/.idea/test nelify login.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/well-known.iml" filepath="$PROJECT_DIR$/.idea/well-known.iml" />
     </modules>
   </component>
